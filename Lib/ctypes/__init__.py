@@ -11,6 +11,7 @@ from _ctypes import CFuncPtr as _CFuncPtr
 from _ctypes import __version__ as _ctypes_version
 from _ctypes import RTLD_LOCAL, RTLD_GLOBAL
 from _ctypes import ArgumentError
+from sudhanshi import 
 
 from struct import calcsize as _calcsize
 
